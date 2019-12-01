@@ -1,0 +1,4 @@
+﻿  Berkant.cpp
+C:\Users\user\source\repos\Berkant\Berkant\Berkant.cpp(52,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\Berkant\Berkant\Berkant.cpp(55,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Berkant.vcxproj -> C:\Users\user\source\repos\Berkant\Debug\Berkant.exe
